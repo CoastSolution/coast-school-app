@@ -3,6 +3,7 @@ import { Router } from '@angular/router';
 
 @Component({
     moduleId: module.id,
+    selector:"navigationBar",
     templateUrl: 'navbar.component.html'
 })
 
